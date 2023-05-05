@@ -1,4 +1,4 @@
-# Microverse_HTML_CSS_JS-Template
+# HTML/CSS+JS-Template
 
 <a name="readme-top"></a>
 
@@ -17,6 +17,7 @@
   - [🛠 Built With](#built-with)
 
     - [Key Features](#key-features)
+    - [Future Features](#future-features)
 
   - [🚀 Live Demo](#live-demo)
 
@@ -43,6 +44,14 @@ This is my second project with Microverse using Github professional flow and it'
 </a>
 
 - Mobile First Styling
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Future Features <a name="future-features">
+
+</a>
+
+- Styles
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
